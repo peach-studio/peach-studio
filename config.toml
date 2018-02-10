@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->新一代网站工作室<!--]--><br />
                 <!--[-->￥800 = HTML5网站 + 手机版 + 永久服务器<!--]-->'
-  logo = "fa-diamond"
+  logoimage = "/images/peach.png"
   copyright = "Untitled"
 
 [[params.social]]
