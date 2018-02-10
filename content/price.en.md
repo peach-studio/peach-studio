@@ -6,7 +6,7 @@ weight = 30
 +++
 
 {{< figure class="image main" src="/images/pic03.jpg" >}}
-Promotion period: 2018/2/10 - 2018/5/10  
+Promotion period: 2018/1/25 - 2018/5/25  
 Package Price: ¥ 800 / Website  
 Package Content: Website Design + Development + Mobile Edition Adaptation + CMS + server space  
   
