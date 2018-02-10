@@ -7,8 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->新一代网站工作室<!--]--><br />
-                <!--[-->￥800 = HTML5网站 + 手机版 + CMS内容管理系统 + 服务器空间<!--]-->'
+  description = "专注于新一代的网站设计与研发"
   logoimage = "/images/peach.png"
   copyright = "Untitled"
 
@@ -41,5 +40,4 @@ weight = 1
 languageName = "English"
 weight = 2
 title = "Peach Studio"
-description = '<!--[-->A new generation of web studio<!--]--><br />
-                <!--[-->¥ 800 = HTML5 website + mobile version + CMS + server space<!--]-->'
+description = "Focus on a new generation of website design and development"
