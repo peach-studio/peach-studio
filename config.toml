@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   description = '<!--[-->新一代网站工作室<!--]--><br />
-                <!--[-->￥800 = HTML5网站 + 手机版 + 永久服务器<!--]-->'
+                <!--[-->￥800 = HTML5网站 + 手机版 + CMS内容管理系统 + 服务器空间<!--]-->'
   logoimage = "/images/peach.png"
   copyright = "Untitled"
 
@@ -42,4 +42,4 @@ languageName = "English"
 weight = 2
 title = "Peach Studio"
 description = '<!--[-->A new generation of web studio<!--]--><br />
-                <!--[-->¥ 800 = HTML5 website + mobile version + permanent server<!--]-->'
+                <!--[-->¥ 800 = HTML5 website + mobile version + CMS + server space<!--]-->'
