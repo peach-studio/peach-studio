@@ -11,4 +11,3 @@ draft = false
 [spectral](https://arkadianriver.github.io/spectral/)  
 [New Age](https://jekynewage.github.io/)  
 [devaid](https://themes.3rdwavemedia.com/demo/devaid/)  
-[grayscale](https://jeromelachaud.github.io/grayscale-theme/)  
