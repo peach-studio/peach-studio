@@ -11,4 +11,3 @@ title = "Works"
 [Rotan's Poetry](http://rrotan.github.io)  
 [spectral](https://arkadianriver.github.io/spectral/)  
 [New Age](https://jekynewage.github.io/)  
-[devaid](https://themes.3rdwavemedia.com/demo/devaid/)  
