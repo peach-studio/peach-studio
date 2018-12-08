@@ -14,4 +14,7 @@ draft = false
 [meghna](https://themes.gohugo.io/theme/meghna-hugo/)  
 [elate](https://themes.gohugo.io/theme/hugo-elate-theme/)  
 [爱酒人俱乐部](http://i9r.github.io)  
+[茶酒不分家]微信公众号  
+[e家together]微信公众号  
+[萱钰健康]微信小程序  
 [罗坦诗集](http://rrotan.github.io)  
